@@ -18,7 +18,7 @@ This project comprises an Airbnb clone developed using React Native and Expo, in
 
 <h2>Screen Gif</h2>
 
-<div style="display: flex; justify-content: space-around; gap: 50;">
+<div style="display: flex; justify-content: space-between;">
     <img src="./gif1.gif" alt="GIF 1" width="300"/>
     <img src="./gif2.gif" alt="GIF 2" width="300"/>
     <img src="./gif3.gif" alt="GIF 3" width="300"/>
