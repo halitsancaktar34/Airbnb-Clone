@@ -18,6 +18,10 @@ This project comprises an Airbnb clone developed using React Native and Expo, in
 
 <h2>Screen Gif</h2>
 
-![GIF 1](./gif1.gif)  ![GIF 2](./gif2.gif)  ![GIF 3](./gif3.gif)
+![GIF 1](./gif1.gif)  
+
+![GIF 2](./gif2.gif)  
+
+![GIF 3](./gif3.gif)
 
 
